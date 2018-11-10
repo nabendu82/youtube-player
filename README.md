@@ -23,3 +23,6 @@ Click [here](https://github.com/nabendu82/youtube-player/archive/master.zip) the
 > npm install
 > npm start
 ```
+
+#### Deployed in Heroku
+The project is deployed in heroku. You can find it [here](https://nameless-dusk-36203.herokuapp.com/)
